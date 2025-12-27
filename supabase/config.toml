@@ -1,0 +1,4 @@
+project_id = "hokozbglabbilpywzpgg"
+
+[functions.threat-analysis]
+verify_jwt = false
